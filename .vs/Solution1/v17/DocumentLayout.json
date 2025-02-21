@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\sc3\\AirportMngm\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42325B5E-DC3D-40EB-9C8A-DBE82E507B88}|AM.infrastructure\\AM.infrastructure.csproj|d:\\.net\\sc3\\airportmngm\\solution1\\am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42325B5E-DC3D-40EB-9C8A-DBE82E507B88}|AM.infrastructure\\AM.infrastructure.csproj|solutionrelative:am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42325B5E-DC3D-40EB-9C8A-DBE82E507B88}|AM.infrastructure\\AM.infrastructure.csproj|d:\\.net\\sc3\\airportmngm\\solution1\\am.infrastructure\\am.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42325B5E-DC3D-40EB-9C8A-DBE82E507B88}|AM.infrastructure\\AM.infrastructure.csproj|solutionrelative:am.infrastructure\\am.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0F1CC2-F8B3-434B-B3AE-65370299135C}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\.net\\sc3\\airportmngm\\solution1\\am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0F1CC2-F8B3-434B-B3AE-65370299135C}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AM.infrastructure.csproj",
+              "DocumentMoniker": "D:\\.NET\\sc3\\AirportMngm\\Solution1\\AM.infrastructure\\AM.infrastructure.csproj",
+              "RelativeDocumentMoniker": "AM.infrastructure\\AM.infrastructure.csproj",
+              "ToolTip": "D:\\.NET\\sc3\\AirportMngm\\Solution1\\AM.infrastructure\\AM.infrastructure.csproj",
+              "RelativeToolTip": "AM.infrastructure\\AM.infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T15:14:58.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AMContext.cs",
+              "DocumentMoniker": "D:\\.NET\\sc3\\AirportMngm\\Solution1\\AM.infrastructure\\AMContext.cs",
+              "RelativeDocumentMoniker": "AM.infrastructure\\AMContext.cs",
+              "ToolTip": "D:\\.NET\\sc3\\AirportMngm\\Solution1\\AM.infrastructure\\AMContext.cs",
+              "RelativeToolTip": "AM.infrastructure\\AMContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:15:13.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "D:\\.NET\\sc3\\AirportMngm\\Solution1\\AM.ApplicationCore\\Domain\\Plane.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Plane.cs",
+              "ToolTip": "D:\\.NET\\sc3\\AirportMngm\\Solution1\\AM.ApplicationCore\\Domain\\Plane.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Plane.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:59:26.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
